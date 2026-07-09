@@ -7,14 +7,15 @@ An end-to-end digital communication system implementing **Run-Length Encoding (R
 ---
 ## Team
 
-**Team Name:** Beyond Binary
+**Team Name:** **Beyond Binary**
 
-**Team Member**
+**Team Member:** **Spoorti R Kademani** (EC25BT025)
 
-**Spoorti R Kademani** (EC25BT025)  
-Department of Electronics and Communication Engineering  
-Indian Institute of Technology Dharwad  
-Email: ec25bt025@iitdh.ac.in
+Department of Electronics and Communication Engineering
+
+Indian Institute of Technology Dharwad
+
+**Email:** ec25bt025@iitdh.ac.in
 ---
 
 ## Project Overview
